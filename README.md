@@ -38,9 +38,9 @@ El modelo está encapsulado dentro de un **Pipeline** que incluye escalado de da
 ```
 backend/
 ├── main.py
-├── models/
+├── model/
 │   └── modelo_pipeline.pkl
-├── routers/
+├── routes/
 │   └── predict.py
 ├── services/
 │   └── model_service.py
