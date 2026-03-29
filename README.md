@@ -1,4 +1,3 @@
-# diabetesprediction-api
 #  Diabetes Prediction API
 
 API desarrollada con **FastAPI** que utiliza un modelo de Machine Learning para predecir la probabilidad de diabetes a partir de datos clínicos del paciente.
